@@ -1,0 +1,10 @@
+pArquivoEtapa2;01_Parametros;parametro
+cad_Etapa2;02_Origem;conexao
+lst_Feriados;02_Origem;conexao
+fAnuncios;03_Modelo;modelo
+dModelo;03_Modelo;modelo
+dCPU;03_Modelo;modelo
+dRAM;03_Modelo;modelo
+dGPU;03_Modelo;modelo
+Rejeitados;03_Modelo;modelo
+dCalendario;03_Modelo;modelo

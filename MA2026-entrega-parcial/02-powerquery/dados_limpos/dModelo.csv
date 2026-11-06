@@ -1,0 +1,7 @@
+﻿Cod_Modelo;Marca;Modelo;CPU_Ref;RAM_Ref;GPU_Ref;GPU_Tipo
+M02;Dell;Dell Pro 14;Intel Core 5 (120U / 220U) / Core Ultra 5 (225U / 235U) / Ultra 7 (255U / 265U);8, 16 ou 32 GB DDR5 / LPDDR5X;Intel Graphics (integrada);Integrada
+M04;Lenovo;Lenovo ThinkPad T14 Gen 6;Intel Core Ultra Series 2 (ex: 225U, 225H e variantes);16 / 32 GB LPDDR5X ou até 64 GB DDR5;Intel Graphics / Arc (integrada conforme o SoC);Integrada
+M07;ASUS;ASUS Zenbook A14;Qualcomm Snapdragon X / Snapdragon X Plus / Snapdragon X Elite;16 ou 32 GB LPDDR5X;Qualcomm Adreno (integrada);Integrada
+M09;Acer;Acer Predator Helios Neo 16 AI;Intel Core Ultra 7 255HX ou Ultra 9 275HX;Até 64 GB DDR5-6400;NVIDIA GeForce RTX 5070 / 5070 Ti Laptop;Dedicada
+M10;Apple;Apple MacBook Air 13 M4;Apple M4 (CPU de 10 núcleos);16, 24 ou 32 GB unificada;GPU de 8 ou 10 núcleos (integrada);Integrada
+M12;Apple;Apple MacBook Pro 14 M5;Apple M5 (CPU de 10 núcleos);16, 24 ou 32 GB unificada;GPU de 10 núcleos (integrada);Integrada
