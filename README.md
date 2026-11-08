@@ -46,10 +46,10 @@ MA2026-projeto-pratico/
 
 | Aluno | Papel / Função Principal | GitHub |
 | --- | --- | --- |
-| **Diego Sandri Guerreiro** | Banco de Dados SQL / Power BI | [Perfil GitHub](https://github.com/) |
-| **Gustavo Santos Silva** | Programador API  | [Perfil GitHub](https://github.com/) |
-| **Jorge Lucas Alves da Silva** | Automação VBA & APIs  | [Perfil GitHub](https://github.com/) |
-| **Juliana Lucia dos Santos Silva** (Líder) | Engenharia de Dados / Excel | [Perfil GitHub](https://github.com/) |
-| **Larissa Ayumi Taira** (Líder) | Modelagem Power Query / DAX | [Perfil GitHub](https://github.com/) |
-| **Pedro Mitsuo Yamauchi** | Gerente do Projeto | [Perfil GitHub](https://github.com/) |
-| **Tiago Muratori Dias** | Quality Assurance (QA) | [Perfil GitHub](https://github.com/) |
+| **Diego Sandri Guerreiro** | Banco de Dados SQL / Power BI | [Perfil GitHub](https://github.com/diegosandrinho) |
+| **Gustavo Santos Silva** | Programador API  | [Perfil GitHub](https://github.com/tiagomuratori) |
+| **Jorge Lucas Alves da Silva** | Automação VBA & APIs  | [Perfil GitHub](https://github.com/jorgelucas8887) |
+| **Juliana Lucia dos Santos Silva** (Líder) | Engenharia de Dados / Excel | [Perfil GitHub](https://github.com/julianalss) |
+| **Larissa Ayumi Taira** (Líder) | Modelagem Power Query / DAX | [Perfil GitHub](https://github.com/larissa-ayumi-taira) |
+| **Pedro Mitsuo Yamauchi** | Gerente do Projeto | [Perfil GitHub](https://github.com/pedroyamauchi12-cell) |
+| **Tiago Muratori Dias** | Quality Assurance (QA) | [Perfil GitHub](https://github.com/artofssug) |
